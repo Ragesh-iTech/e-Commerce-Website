@@ -1,0 +1,102 @@
+cooling glass
+Cooling glasses is a term used
+ in Southern India (predominantly Kerala) 
+ and the Middle East for sunglasses.
+A form of protective eyewear designed primarily to prevent bright 
+ sunlight and high-energy visible light from damaging or discomforting the eyes. 
+
+chain 
+A gold chain is a piece of jewelry made of gold that we wear around the neck.
+
+shirt
+A garment for the upper part of the body usually with a collar, sleeves, a
+ front opening, and a tail long enough to be tucked inside pants or a skirt.
+
+smart watch
+A smartwatch is a portable and wearable computer device in a form of a watch.
+
+gold watch
+Rolex is an integrated and independent Swiss watch manufacture.
+ Headquartered in Geneva,
+ it is recognized for its expertise and the quality of its products.
+
+pants
+  An item of clothing worn from the waist to anywhere between the knees
+   and the ankles, covering both legs separately.
+
+shoes
+an outer covering for the human foot typically having a thick or 
+stiff sole with an attached heel and an upper part of lighter material
+
+
+i2----------------------------------------------
+<div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <span>
+                        <img src="./img/scroll-img/i2.webp" width="1100px" height="200px" >
+                    </span>
+                </div>
+            </div>
+        </div>
+------------------------------------------------
+i3----------------------------------------------
+<div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <span>
+                        <img src="./img/scroll-img/i3.webp"  width="1100px" height="200px">
+                    </span>
+                    
+                </div>
+            </div>
+        </div>
+--------------------------------------------------
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <span>
+                        <img src="./img/scroll-img/i4.webp" width="1100px" height="200px" >
+                    </span>
+                    
+                </div>
+            </div>
+        </div>
+----------------------------------------------------        
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <span>
+                        <img src="./img/scroll-img/i5.webp" width="1100px" height="200px">
+                    </span>
+                </div>
+            </div>
+        </div>      
+-------------------------------------------------------              
+
+
+
+
+
+
+
+
+
+
+iphon products
+
+<div class="col">
+    <div id="product-item">
+        <a href="#"><img src="./img/i1.webp"></a>
+        <h5 class="card-title">iPhone</h5>
+        <pre>Lorem ipsum dolor sit amet <br> consectetur adipisicing elit.<b><del class="text-danger">95,000</del> &#8377;75,000</b><b>43&percnt; off</b>&#11088;&#11088;&#11088;&#11088;&#11088;<b>(1000)</b>            Free delivery          </pre>
+        <div class="shope-btn d-flex">
+            <div class="shope-item">
+                <button class="btn btn-danger me-2"><img src="./img/scroll-img/add to card.png">Add to Card</button>
+            </div>
+            <div class="shope-item">
+                <button class="btn btn-success pe-4"><img src="./img/scroll-img/buy.png">Buy Now</button>
+            </div>                                    
+        </div>                               
+    </div>
+</div>    
